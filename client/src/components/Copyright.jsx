@@ -5,7 +5,7 @@ export default function Copyright() {
     return (
         <Typography variant="body2" color="primary" align="center">
             {'Copyright © '}
-            <Link color="inherit" href="/" >Mathieu Media</Link>{' '}
+            <Link color="inherit" href="/" >Biswajit</Link>{' '}
             {new Date().getFullYear()}{'.'}
         </Typography>
     )
